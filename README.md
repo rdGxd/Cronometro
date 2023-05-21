@@ -1,3 +1,3 @@
 # Timer
 
-Criando um Cronômetro:  https://rdgxd.github.io/Timer/
+Criando um Cronômetro:  https://rdgxd.github.io/Cronometro/
